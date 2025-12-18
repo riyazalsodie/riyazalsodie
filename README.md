@@ -13,6 +13,8 @@
 - 📫 How to reach me: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdriyazahmed003@gmail.com)
 - 😄 Pronouns: **he/him**
 
+  ![TryHackMe Badge](assets/0xR1Y4Z.png)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/GZQHuAw2Fp) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/riyazalsodie) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/riyazalsodie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdriyazahmed003@gmail.com)
 
