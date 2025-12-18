@@ -14,7 +14,7 @@
 - 😄 Pronouns: **he/him**
 
 
-  ![TryHackMe Stats](assets/0xR1Y4Z.png)
+  ![TryHackMe Stats](assets/thm_propic.png)
 
 
 ## 🌐 Socials:
