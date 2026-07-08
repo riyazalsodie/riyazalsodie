@@ -7,7 +7,7 @@
 </p>
 
 ### 👋 About Me
-- 🔭 I’m currently working on <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='DevOps' src='https://img.shields.io/badge/DevOps-100000?style=for-the-badge&logo=DevOps&logoColor=CD0C0C&labelColor=D71E1E&color=000000'/></a>
+- 🔭 I’m currently working on <a href='https://github.com/riyazalsodie' target="_blank"><img alt='DevOps' src='https://img.shields.io/badge/DevOps-100000?style=for-the-badge&logo=DevOps&logoColor=CD0C0C&labelColor=D71E1E&color=000000'/></a>
 - 🌱 I’m currently learning **Everything**
 - 🤝 Open to collaborating on **Web development** and **Saas**
 - 📫 How to reach me: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdriyazahmed003@gmail.com)
