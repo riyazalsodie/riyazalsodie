@@ -7,8 +7,8 @@
 </p>
 
 ### 👋 About Me
-- 🔭 I’m currently working on ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=%2320232a) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%23007ACC) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%23316192) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&labelColor=3982CE) 
-- 🌱 I’m currently learning **Tanstacks**
+- 🔭 I’m currently working on <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='DevOps' src='https://img.shields.io/badge/DevOps-100000?style=for-the-badge&logo=DevOps&logoColor=CD0C0C&labelColor=D71E1E&color=000000'/></a>
+- 🌱 I’m currently learning **Everything**
 - 🤝 Open to collaborating on **Web development** and **Saas**
 - 📫 How to reach me: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdriyazahmed003@gmail.com)
 - 😄 Pronouns: **he/him**
